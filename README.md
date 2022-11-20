@@ -1,6 +1,6 @@
 <h1> WASSUP </h1>
 <p> <strong>#{@readme}</strong> is currently in progress </p>
-<p> -10%----------------</p> 
+<p> 1%----------------</p> 
 <ul>
   <li> 👋 Hi, I’m @shoeslace911 </li>
 <li> 👀 I’m interested in ... </li>
