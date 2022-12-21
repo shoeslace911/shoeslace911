@@ -3,10 +3,10 @@
 <p> 1%----------------</p> 
 <ul>
   <li> 👋 Hi, I’m @shoeslace911 </li>
-<li> 👀 I’m interested in ... </li>
-<li> 🌱 I’m currently learning ... </li>
-<li> 💞️ I’m looking to collaborate on ... </li>
-<li> 📫 How to reach me ... </li>
+<li> 👀 I’m interested in games lmao </li>
+<li> 🌱 I’m currently "mastering" Javascript to master React.js</li>
+<li> 💞️ I’m looking to collaborate on HELP ME WITH REACT, JESUS CHRIST</li>
+<li> 📫 How to reach me. Via my insta = https://www.instagram.com/shoelace911/ (follow me)</li>
 </ul>
 <!---
 shoeslace911/shoeslace911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
