@@ -1,4 +1,4 @@
-<h1> WASSUP </h1>
+<h1> YO MERRY CHRISTMAS </h1>
 <p> <strong>#{@readme}</strong> is currently in progress </p>
 <p> 1%----------------</p> 
 <ul>
