@@ -23,6 +23,7 @@ w link to take a look at your changes.
 <p>It's our final project for the bootcamp, Le Wagon.</p>
 <p>It is an app for tracking the food you have and it helps you prevent wasting food. Buying stuff you already have but didn't know</p>
 <h1>Homepage</h1>
+
 ![image](https://user-images.githubusercontent.com/98511262/205536078-55281a1c-338e-4e7f-bde6-ec482898a6c8.png)
 
 <h2>My roles</h2>
@@ -40,11 +41,14 @@ w link to take a look at your changes.
   <li>Tells you when a food is likely going to expire</li>
 </ul>
 <h2>Main page where all your foods are displayed</h2>
+
 ![image](https://user-images.githubusercontent.com/98511262/205536478-342b1d28-35a0-42ad-998b-3dc8ed71f0ec.png)
 
 <h2>Page when you want to add a food to your fridge</h2>
+
 ![image](https://user-images.githubusercontent.com/98511262/205536574-4fa1bdd6-6cbd-43cb-af59-b517461c5a17.png)
 
 <h2>A shoopping list feature</li>
+
 ![image](https://user-images.githubusercontent.com/98511262/205537186-a213b396-a79a-4e6e-b83a-5a5106dcc074.png)
 
