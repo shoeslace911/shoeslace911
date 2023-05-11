@@ -14,7 +14,10 @@
 </li>
 <li> 💞️ I’m looking to collaborate on HELP ME WITH REACT, JESUS CHRIST</li>
   
+  ![MrwMyCoworkerTriesToConvinceMeItTakes18mosToGiveBirthToTwinsGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/e5424ee8-bfc3-4abe-b418-bf8e7c24cdfd)
+
 <li> 📫 How to reach me. Via my insta = https://www.instagram.com/shoelace911/ (follow me). LinkedIn = https://www.linkedin.com/in/sho-l-fujiwara/</li>
+
 </ul>
 
 <!---
