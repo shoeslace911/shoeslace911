@@ -3,11 +3,7 @@
 <p> 1%----------------</p> 
 <ul>
   <li> 👋 Hi,Sho Fujiwara aka @shoeslace911. </li>
-<li> 👀 I’m interested in games lmao </li>
-  
-  ![JohnMarstonEpilogueGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/d13e8c0b-8c68-4cb6-8d68-fcb66a29fc77)
-  
-<li> 🌱 Like a tree, I keep growing. Maybe not in height but in skillz　
+  <li> 🌱 Like a tree, I keep growing. Maybe not in height but in skillz　
   
   ![GlassesSunglassesGIF (2)](https://github.com/shoeslace911/shoeslace911/assets/98511262/9b407c2b-7189-45b4-8226-f056dd21b5f2)
   
@@ -18,6 +14,9 @@
 
 <li> 📫 How to reach me. Via my insta = https://www.instagram.com/shoelace911/ (follow me). LinkedIn = https://www.linkedin.com/in/sho-l-fujiwara/</li>
 
+<li> 👀 I’m interested in games </li>
+  
+  ![JohnMarstonEpilogueGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/d13e8c0b-8c68-4cb6-8d68-fcb66a29fc77)
 </ul>
 
 <p><strong>HOOKS IS A BITCH</strong></p>
