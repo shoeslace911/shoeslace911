@@ -19,8 +19,15 @@
   ![JohnMarstonEpilogueGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/d13e8c0b-8c68-4cb6-8d68-fcb66a29fc77)
 </ul>
 
-<p><strong>HOOKS IS A BITCH</strong></p>
-<!---
+<li> Love music </li>
+
+![DavidGilmourTurnGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/5874fdc4-abaa-4894-b838-9912ba101526)
+
+<li> And movies </li>
+
+![SadDeathGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/370f6c15-5a77-448c-b298-6c5919e1cfc0)
+
+ <!---
 shoeslace911/shoeslace911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Previe![WIN_20221003_20_20_04_Pro](https://user-images.githubusercontent.com/98511262/202061229-a73a64e5-3b56-4a37-b44e-ebf71d7a9ae4.jpg)
 w link to take a look at your changes.
