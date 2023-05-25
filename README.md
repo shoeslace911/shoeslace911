@@ -1,37 +1,28 @@
-<h1> YO HAPPY GOLDEN WEEK </h1>
-<p> <strong>#{@readme}</strong> is currently in progress </p>
-<p> 1%----------------</p> 
-<ul>
-  <li> 👋 Hi,Sho Fujiwara aka @shoeslace911. </li>
-  <li> 🌱 Like a tree, I keep growing. Maybe not in height but in skillz　
-  
-  ![GlassesSunglassesGIF (2)](https://github.com/shoeslace911/shoeslace911/assets/98511262/9b407c2b-7189-45b4-8226-f056dd21b5f2)
-  
-</li>
-<li> 💞️ I’m looking to collaborate on HELP ME WITH REACT, JESUS CHRIST</li>
-  
-  ![MrwMyCoworkerTriesToConvinceMeItTakes18mosToGiveBirthToTwinsGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/e5424ee8-bfc3-4abe-b418-bf8e7c24cdfd)
+<h1 align="center">Hi 👋, I'm Sho Fujiwara</h1>
+<h3 align="center">A Frontend (sometimes Fullstack) developer based on Japan.</h3>
 
-<li> 📫 How to reach me. Via my insta = https://www.instagram.com/shoelace911/ (follow me). LinkedIn = https://www.linkedin.com/in/sho-l-fujiwara/</li>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoeslace911" alt="shoeslace911" /></a> </p>
 
-<li> 👀 I’m interested in games </li>
-  
-  ![JohnMarstonEpilogueGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/d13e8c0b-8c68-4cb6-8d68-fcb66a29fc77)
-</ul>
+- 🔭 I’m currently working on [The Black Bar - cocktail bible... on the web.](https://github.com/shoeslace911/the-black-bar)
 
-<li> Love music </li>
+- 🌱 I’m currently learning **Next.js and trying to master React.**
 
-![DavidGilmourTurnGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/5874fdc4-abaa-4894-b838-9912ba101526)
+- 💬 Ask me about **anything. I might not have the answer but I'll help you find it.**
 
-<li> And movies </li>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/shoeslace911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/shoeslace911" height="30" width="40" /></a>
+<a href="https://twitter.com/藤原しょう" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="藤原しょう" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sho-l-fujiwara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sho-l-fujiwara/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/okraharvester/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/okraharvester/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/shofujiwara911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/shofujiwara911" height="30" width="40" /></a>
+</p>
 
-![SadDeathGIF](https://github.com/shoeslace911/shoeslace911/assets/98511262/370f6c15-5a77-448c-b298-6c5919e1cfc0)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
- <!---
-shoeslace911/shoeslace911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Previe![WIN_20221003_20_20_04_Pro](https://user-images.githubusercontent.com/98511262/202061229-a73a64e5-3b56-4a37-b44e-ebf71d7a9ae4.jpg)
-w link to take a look at your changes.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoeslace911&show_icons=true&locale=en&layout=compact" alt="shoeslace911" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoeslace911&show_icons=true&locale=en" alt="shoeslace911" /></p>
 
-![WIN_20221003_20_20_04_Pro](https://user-images.githubusercontent.com/98511262/202061372-2e6b4e38-60c0-4698-992a-9c7f61e169d3.jpg) <--- My dumb face
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoeslace911&" alt="shoeslace911" /></p>
