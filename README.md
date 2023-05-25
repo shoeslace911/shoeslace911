@@ -1,9 +1,11 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+
+ ![half-life-greetings-x2r3nzugh8us65ka](https://github.com/shoeslace911/shoeslace911/assets/98511262/30cf42d7-4679-4190-ba4e-9abb6859110d)
+ 
 </div>  
   
 
-### <div align="center">こんにちは! Maayong adlaw. I'm Sho Fujiwara</div>  
+<div align="center">I'm Sho Fujiwara</div>  
   
 
 - 🔭 I’m currently working on The Black Bar - your cocktail bible... on the web. [https://github.com/shoeslace911/the-black-bar]  
