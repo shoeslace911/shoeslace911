@@ -5,7 +5,7 @@
 </div>  
   
 
-<div align="center">I'm Sho Fujiwara</div>  
+<h1 align="center">I'm Sho Fujiwara</h1>  
   
 
 - 🔭 I’m currently working on The Black Bar - your cocktail bible... on the web. [https://github.com/shoeslace911/the-black-bar]  
@@ -111,12 +111,24 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoeslace911&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<div align="center">
+ <h1 align="center">I love music</h1>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=uzmz8lf0um4yxnkdvgrzfzc7j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+</div>  
+<div align="center">
+ <h1 align="center">video games</h1>
+ ![johnmarston-reddead](https://github.com/shoeslace911/shoeslace911/assets/98511262/aec741b1-6787-40c0-8fb3-e0083055e28f)
+</div>  
+<div align="center">
+  <h1 align="center">and movies</h1>
+ ![FancySleepyAntipodesgreenparakeet-max-1mb](https://github.com/shoeslace911/shoeslace911/assets/98511262/55508ce0-923a-40d3-832b-69651d65a781)
+</div>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=uzmz8lf0um4yxnkdvgrzfzc7j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
   
+
 
 <br/>  
 
