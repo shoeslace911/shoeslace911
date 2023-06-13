@@ -104,8 +104,9 @@
 </a>  
 </div>  
   
-<!--   #streak -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=shoeslace911&theme=dark&hide_border=false)<br/>
+<!--   #streak --><div align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=shoeslace911&theme=dark&hide_border=false)
+ </div>
 <br/>  
 
 <br/>  
