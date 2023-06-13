@@ -79,7 +79,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/shoeslace911" target="_blank">
@@ -105,12 +104,9 @@
 </a>  
 </div>  
   
-
+<!--   #streak -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=shoeslace911&theme=dark&hide_border=false)<br/>
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoeslace911&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 <div align="center">
@@ -131,20 +127,12 @@
  ![FancySleepyAntipodesgreenparakeet-max-1mb](https://github.com/shoeslace911/shoeslace911/assets/98511262/55508ce0-923a-40d3-832b-69651d65a781)
  
 </div>  
-
-
 <br/>  
-
-  
-
-
 <br/>  
 
 <div align="center"></div>  
 
 <br/>  
-
-
 <br />
 
 ----
