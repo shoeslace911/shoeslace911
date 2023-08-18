@@ -8,7 +8,7 @@
 <h1 align="center">I'm Sho Fujiwara</h1>  
   
 
-- 🔭 I’m currently working on The Black Bar - your cocktail bible... on the web. [https://github.com/shoeslace911/the-black-bar]  
+- 🔭 I’m currently working on Next.js
   
 
 - 🌱 I’m currently learning Next.js and trying to master React.  
